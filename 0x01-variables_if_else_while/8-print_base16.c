@@ -16,6 +16,6 @@ int main(void)
 	{
 		putchar(ch[i]);
 	}
-	putchr('\n');
+	putchar('\n');
 	return (0);
 }
