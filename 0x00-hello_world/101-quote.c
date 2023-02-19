@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <uninisd.h>
+#include <unistd.h>
 /**
  * main - write string
  *
