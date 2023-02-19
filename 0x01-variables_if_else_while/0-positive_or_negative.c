@@ -1,10 +1,12 @@
 #include <stdlib.h>
 #include <time.h>
+#include <stdio.h>
 
 /**
- * more headers goes there
+ *main - determaine a number is postive, zero or negative
  *
- * betty style doc for function main goes there
+ * Return: 0
+ *
  */
 
 int main(void)
